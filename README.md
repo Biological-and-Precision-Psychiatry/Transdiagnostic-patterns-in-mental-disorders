@@ -7,7 +7,7 @@
 [Per K. Andersen](https://researchprofiles.ku.dk/da/persons/per-kragh-andersen/), 
 [Rune H. B. Christensen](https://github.com/runehaubo), 
 [Michael E. Benros](https://researchprofiles.ku.dk/da/persons/jrd819-jrd819/)
-- A scientific paper under review in [JAMA Psychiatry](https://jamanetwork.com/journals/jamapsychiatry)
+- A scientific paper published in [JAMA Psychiatry](https://ja.ma/42ii3XU)
 
 
 This repository contains R-code to replicate the results presented in the paper.
